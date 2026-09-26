@@ -13,3 +13,4 @@ A front-end web application that replicates the core UI and movie-browsing exper
 * JavaScript (ES6)
 * The Movie Database (TMDB) API
 * Thank you so much
+Welcome
